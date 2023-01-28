@@ -1,2 +1,2 @@
-# ticktacktoe
-tick tack toe game
+# Rock paper sissors
+Rock paper sissors game
